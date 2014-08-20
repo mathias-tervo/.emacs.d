@@ -312,7 +312,10 @@
 (global-set-key (kbd "M-s f") 'find-name-dired)
 
 ;; Find file in project
-(global-set-key (kbd "C-x o") 'find-file-in-project)
+(global-set-key (kbd "C-x C-f") 'find-file-in-project)
+
+;; Toggle active window
+(global-set-key (kbd "C-x o") 'other-window)
 
 ;; Find file in project, with specific patterns
 (global-unset-key (kbd "C-x C-o")) ;; which used to be delete-blank-lines (also bound to C-c C-<return>)

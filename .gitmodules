@@ -112,3 +112,6 @@
 [submodule "site-lisp/datomic-snippets"]
         path = site-lisp/datomic-snippets
         url = https://github.com/magnars/datomic-snippets.git
+[submodule "site-lisp/jshint-mode"]
+	path = site-lisp/jshint-mode
+	url = git@github.com:daleharvey/jshint-mode.git

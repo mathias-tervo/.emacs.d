@@ -14,3 +14,13 @@ site-lisp/adventur-mode
 .cask
 /url/
 /var/
+
+history
+
+# Emacs temporary files
+*.*~
+.#*
+\#**#
+\ \**#
+\ \*Minibuf-10\*
+
