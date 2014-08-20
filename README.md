@@ -1,5 +1,9 @@
-# My emacs settings
+# First a little note:
+This is a fork and slightly modified version of [magnars](https://github.com/magnars/.emacs.d/) excellent emacs config
+Now lets hand over the mic to magnars himself
 
+
+# My emacs settings
 An ever-changing set of emacs settings. Micro-optimizations are super fun.
 These are used in the [Emacs Rocks](http://emacsrocks.com) screencasts.
 You can also see some thoughts behind the settings on my [What the .emacs.d!?](http://whattheemacsd.com)-blog.
