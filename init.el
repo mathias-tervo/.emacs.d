@@ -53,7 +53,9 @@
 ;; Install extensions if they're missing
 (defun init--install-packages ()
   (packages-install
-   '(magit
+   '(auto-complete
+     ac-js2
+     magit
      paredit
      move-text
      gist

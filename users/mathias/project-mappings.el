@@ -6,3 +6,7 @@
 
 ;; set the default theme
 (load-theme 'solarized-light t)
+
+
+;; enable ac-js2 in js2-mode
+(add-hook 'js2-mode-hook 'ac-js2-mode)
